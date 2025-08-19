@@ -1,0 +1,10 @@
+tensorflow>=2.12
+scikit-learn
+pandas
+numpy
+nltk
+streamlit
+langchain
+openai
+python-dotenv
+matplotlib
